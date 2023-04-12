@@ -11,5 +11,5 @@ this a a reproduction of the classic board game "Noughts and Crosses".
 3. Run `main.pyw`
 ## Requirements
 - Python 3.7
-- Python pygame library
-- Python random library
+- Python `pygame` library
+- Python `random` library
