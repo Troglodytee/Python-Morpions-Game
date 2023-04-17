@@ -1,7 +1,7 @@
 # Python-Morpions-Game
 ![Preview image](./preview/preview.jpg)
 
-this a a reproduction of the classic board game "Noughts and Crosses".
+This a a reproduction of the classic board game "Noughts and Crosses".
 ## Features
 - Player versus player
 - Player versus AI
